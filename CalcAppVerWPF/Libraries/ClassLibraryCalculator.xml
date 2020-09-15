@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ClassLibraryCalculator</name>
+    </assembly>
+    <members>
+        <member name="M:ClassLibraryCalculator.Calculator.Square(System.Int32)">
+            <summary>
+            Simple method to get the square of a number
+            </summary>
+            <param name="num"></param>
+            <returns>num * num</returns>
+        </member>
+        <member name="M:ClassLibraryCalculator.Calculator.Multiply(System.Int32,System.Int32)">
+            <summary>
+            Simple multiply method
+            </summary>
+            <param name="num1"></param>
+            <param name="num2"></param>
+            <returns>num1 * num2</returns>
+        </member>
+        <member name="M:ClassLibraryCalculator.Calculator.Divide(System.Int32,System.Int32)">
+            <summary>
+            Simple Division method
+            </summary>
+            <param name="num1"></param>
+            <param name="num2"></param>
+            <returns>num1 / num2</returns>
+        </member>
+        <member name="M:ClassLibraryCalculator.Calculator.Add(System.Int32,System.Int32)">
+            <summary>
+            Simple Add method
+            </summary>
+            <param name="num1"></param>
+            <param name="num2"></param>
+            <returns>num1 + num2</returns>
+        </member>
+        <member name="M:ClassLibraryCalculator.Calculator.Subtract(System.Int32,System.Int32)">
+            <summary>
+            Simple Subtract method
+            </summary>
+            <param name="num1"></param>
+            <param name="num2"></param>
+            <returns>num1 - num2</returns>
+        </member>
+        <member name="M:ClassLibraryCalculator.Calculator.Multiply(System.Double,System.Double)">
+            <summary>
+            Simple Multiplication method for numbers with decimals
+            </summary>
+            <param name="num1"></param>
+            <param name="num2"></param>
+            <returns>num1 * num2</returns>
+        </member>
+        <member name="M:ClassLibraryCalculator.Calculator.Divide(System.Double,System.Double)">
+            <summary>
+            Simple Division method for numbers with decimals
+            </summary>
+            <param name="num1"></param>
+            <param name="num2"></param>
+            <returns>num1 / num2</returns>
+        </member>
+        <member name="M:ClassLibraryCalculator.Calculator.Add(System.Double,System.Double)">
+            <summary>
+            Simple Addition method for numbers with decimals
+            </summary>
+            <param name="num1"></param>
+            <param name="num2"></param>
+            <returns>num1 + num2</returns>
+        </member>
+        <member name="M:ClassLibraryCalculator.Calculator.Subtract(System.Double,System.Double)">
+            <summary>
+            Simple Subtraction method for numbers with decimals
+            </summary>
+            <param name="num1"></param>
+            <param name="num2"></param>
+            <returns>num1 - num2</returns>
+        </member>
+    </members>
+</doc>
